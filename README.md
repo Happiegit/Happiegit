@@ -1,4 +1,4 @@
-### Hi, I'm Happiness 👋
+# Hi, I'm Happiness James 👋
 ---
 
  ### 🚀 Welcome to My GitHub Profile
@@ -28,3 +28,9 @@ I enjoy learning new technologies, building practical projects, and growing my p
 - Cloud Technologies  
 - Web Development  
 - Open Source  
+
+Tech and Tool
+<p align="center">
+<"![Static Badge](https://img.shields.io/badge/SwiftUI-orange)">
+
+
