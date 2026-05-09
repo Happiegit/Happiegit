@@ -1,13 +1,15 @@
-# Hi, I'm Happiness 👋
+### Hi, I'm Happiness 👋
+---
 
-## 🚀 Welcome to My GitHub Profile
+ ### 🚀 Welcome to My GitHub Profile
+---
+<p align="center">
+🌟 About Me
 
 I'm an IT Support and Network Engineer with a strong interest in cybersecurity, networking, cloud technologies, and software development.  
 I enjoy learning new technologies, building practical projects, and growing my problem-solving skills through hands-on experience.
 
 ---
-
-## 🌟 About Me
 
 - 🔭 Currently improving my coding skills and working on real-world projects  
 - 🌱 Learning full-stack development from scratch  
@@ -19,7 +21,7 @@ I enjoy learning new technologies, building practical projects, and growing my p
 
 ---
 
-## 🛠️ Tech Interests
+### 🛠️ Tech Interests
 
 - Cybersecurity  
 - Networking  
