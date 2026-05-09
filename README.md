@@ -42,19 +42,10 @@ I enjoy learning new technologies, building practical projects, and growing my p
 ## 🚀 My Projects
 
 <p align="center">
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="150" alt="WordSage Demo"/>
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="150" alt="Daily Devotion Demo"/>
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="150" alt="Tap Duel Demo"/>
-</p>
-
----
-
-### 📱 Gifs / Images
-https://apps.apple.com/ca/app/wordsage/id6683296823
-
-_Your daily vocabulary companion with interactive challenges and motion-based controls._
-
----
+<p align="center"> <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" /> </p>
+<p align="center"> A collection of interactive iOS apps built with Swift, focusing on learning, motion, and engaging UI experiences. </p>
+🚀 Featured Projects
+<p align="center"> <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="180" /> <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="180" /> <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="180" /> </p>
 
 ### ✨ Features:
 - Daily word challenges to expand your vocabulary  
