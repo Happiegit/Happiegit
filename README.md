@@ -52,8 +52,5 @@ I enjoy learning new technologies, building practical projects, and growing my p
 - Multiple game modes: matching, anagrams, flashcards  
 - Motion-based gameplay for an immersive experience  
 
-Tech and Tool
-<p align="center">
-<"![Static Badge](https://img.shields.io/badge/SwiftUI-orange)">
 
 
