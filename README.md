@@ -3,7 +3,7 @@
 
  ### 🚀 Welcome to My GitHub Profile
 ---
-<p align="center">
+
 🌟 About Me
 
 I'm an IT Support and Network Engineer with a strong interest in cybersecurity, networking, cloud technologies, and software development.  
