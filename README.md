@@ -1,9 +1,23 @@
-# Hi, I'm Happiness James 👋
+<img width="2560" height="400" alt="Green Cartoon Funny Canva Banner (3)" src="https://github.com/user-attachments/assets/fe841757-3b0c-4693-9489-673cebd6150d" />
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=3000&color=00FF99&ceenter=true&vCenter=true&width=1000&lines=Hi.+I'm.+Happiness.+James.;" 
+    alt="Typing SVG" 
+  />
+</p>
+
 ---
 
- ### 🚀 Welcome to My GitHub Profile
----
+### Welcome to My GitHub Profile
+  <p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=00FF99&ceenter=true&vCenter=true&width=1000&lines=Build.+Break.+Improve.+Repeat.;" 
+    alt="Typing SVG" 
+  />
+</p>
 
+---
 🌟 About Me
 
 I'm an IT Support and Network Engineer with a strong interest in cybersecurity, networking, cloud technologies, and software development.  
@@ -29,10 +43,6 @@ I enjoy learning new technologies, building practical projects, and growing my p
 - Web Development  
 - Open Source  
 
-<img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" />
-</a>
-</p>
-
 ---
 
 <!-- ============================= -->
@@ -41,16 +51,7 @@ I enjoy learning new technologies, building practical projects, and growing my p
 
 ## 🚀 My Projects
 
-<p align="center">
-<p align="center"> <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" /> </p>
-<p align="center"> A collection of interactive iOS apps built with Swift, focusing on learning, motion, and engaging UI experiences. </p>
-🚀 Featured Projects
-<p align="center"> <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="180" /> <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="180" /> <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="180" /> </p>
 
-### ✨ Features:
-- Daily word challenges to expand your vocabulary  
-- Multiple game modes: matching, anagrams, flashcards  
-- Motion-based gameplay for an immersive experience  
 
 
 
