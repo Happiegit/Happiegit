@@ -39,7 +39,7 @@ I enjoy learning new technologies, building practical projects, and growing my p
 
 - Cybersecurity  
 - Networking  
-- Cloud Technologies  
+- Cloud Computing 
 - Web Development  
 - Open Source  
 
